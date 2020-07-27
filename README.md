@@ -11,23 +11,17 @@ broke into a castle
 
 ## matthew b
 
-had a pet tarantula
-never got a speeding ticket
-met Hulk Hogan at the airport
+had a pet tarantula<br>
+never got a speeding ticket<br>
+met Hulk Hogan at the airport<br>
 
 ## Farina
 
-i have a son
+# i have a son
 i am married
 i had a pet cat blacky
 
 ## daniel
 i play guitar <br>
 i broke my leg last year<br>
-i dont eat bacon <br>
-
-## johanne
-
-i am color blind
-never learned to ride a bike
-best friends with michael jordan
+# i dont eat bacon <br>
