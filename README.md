@@ -25,3 +25,11 @@ i had a pet cat blacky <br>
 i play guitar <br>
 i broke my leg last year<br>
 # i dont eat bacon <br>
+
+## Jovahn
+been to Thailand<br>
+been to an NBA basketball game <br>
+I'm wearing pink undies<br>
+
+
+
