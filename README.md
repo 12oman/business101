@@ -5,8 +5,8 @@ helper repo for basd
 
 ## roman
 
-don't like fruit
-# kissed Elizabeth Hurley
+# don't like fruit
+kissed Elizabeth Hurley
 broke into a castle
 
 ## matthew b
