@@ -18,8 +18,8 @@ met Hulk Hogan at the airport<br>
 ## Farina
 
 # i have a son
-i am married
-i had a pet cat blacky
+i am married <br>
+i had a pet cat blacky <br>
 
 ## daniel
 i play guitar <br>
